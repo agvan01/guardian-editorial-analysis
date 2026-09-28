@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620" role="img" aria-labelledby="chart-title chart-desc">
+<title id="chart-title">Guardian articles published by section</title>
+<desc id="chart-desc">Horizontal bar chart comparing articles across Guardian sections.</desc>
+<rect width="1000" height="620" fill="#ffffff"/>
+<text x="70" y="58" fill="#052962" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">Guardian articles published by section</text>
+<text x="70" y="91" fill="#5f6b76" font-family="Arial, Helvetica, sans-serif" font-size="17">30 Aug–26 Sep 2026 · 1,098 content items</text>
+<line x1="260.0" y1="142" x2="260.0" y2="505" stroke="#d9dee3" stroke-width="1"/>
+<text x="260.0" y="532" text-anchor="middle" fill="#5f6b76" font-family="Arial, Helvetica, sans-serif" font-size="14">0</text>
+<line x1="391.0" y1="142" x2="391.0" y2="505" stroke="#d9dee3" stroke-width="1"/>
+<text x="391.0" y="532" text-anchor="middle" fill="#5f6b76" font-family="Arial, Helvetica, sans-serif" font-size="14">100</text>
+<line x1="522.0" y1="142" x2="522.0" y2="505" stroke="#d9dee3" stroke-width="1"/>
+<text x="522.0" y="532" text-anchor="middle" fill="#5f6b76" font-family="Arial, Helvetica, sans-serif" font-size="14">200</text>
+<line x1="653.0" y1="142" x2="653.0" y2="505" stroke="#d9dee3" stroke-width="1"/>
+<text x="653.0" y="532" text-anchor="middle" fill="#5f6b76" font-family="Arial, Helvetica, sans-serif" font-size="14">300</text>
+<line x1="784.0" y1="142" x2="784.0" y2="505" stroke="#d9dee3" stroke-width="1"/>
+<text x="784.0" y="532" text-anchor="middle" fill="#5f6b76" font-family="Arial, Helvetica, sans-serif" font-size="14">400</text>
+<line x1="915.0" y1="142" x2="915.0" y2="505" stroke="#d9dee3" stroke-width="1"/>
+<text x="915.0" y="532" text-anchor="middle" fill="#5f6b76" font-family="Arial, Helvetica, sans-serif" font-size="14">500</text>
+<text x="242" y="191.5" text-anchor="end" fill="#1f2933" font-family="Arial, Helvetica, sans-serif" font-size="18">World news</text>
+<rect x="260" y="164.9" width="639.3" height="41.2" rx="3" fill="#c70000"/>
+<text x="911.3" y="191.5" fill="#1f2933" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">488</text>
+<text x="242" y="262.5" text-anchor="end" fill="#1f2933" font-family="Arial, Helvetica, sans-serif" font-size="18">Politics</text>
+<rect x="260" y="235.9" width="289.5" height="41.2" rx="3" fill="#1f78b4"/>
+<text x="561.5" y="262.5" fill="#1f2933" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">221</text>
+<text x="242" y="333.5" text-anchor="end" fill="#1f2933" font-family="Arial, Helvetica, sans-serif" font-size="18">Business</text>
+<rect x="260" y="306.9" width="268.6" height="41.2" rx="3" fill="#1f78b4"/>
+<text x="540.5" y="333.5" fill="#1f2933" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">205</text>
+<text x="242" y="404.5" text-anchor="end" fill="#1f2933" font-family="Arial, Helvetica, sans-serif" font-size="18">Technology</text>
+<rect x="260" y="377.9" width="165.1" height="41.2" rx="3" fill="#1f78b4"/>
+<text x="437.1" y="404.5" fill="#1f2933" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">126</text>
+<text x="242" y="475.5" text-anchor="end" fill="#1f2933" font-family="Arial, Helvetica, sans-serif" font-size="18">Culture</text>
+<rect x="260" y="448.9" width="76.0" height="41.2" rx="3" fill="#1f78b4"/>
+<text x="348.0" y="475.5" fill="#1f2933" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">58</text>
+<text x="587.5" y="563" text-anchor="middle" fill="#5f6b76" font-family="Arial, Helvetica, sans-serif" font-size="15">Articles</text>
+<text x="70" y="592" fill="#5f6b76" font-family="Arial, Helvetica, sans-serif" font-size="14">Source: Guardian Open Platform Content API · Analysis conducted in SQLite</text>
+</svg>
